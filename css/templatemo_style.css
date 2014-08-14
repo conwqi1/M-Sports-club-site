@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1	{	font-size: 2.2em;
 	color: #ffffff;
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(0, 0, 0, 0.9);
 	padding: 10px 8px;
 	float: left;
 	}
@@ -127,7 +127,7 @@ img {
 	border-color: #5ea32e;
 }
 
-.templatemo_caption p { color: #ffffff; background: rgba(0, 0, 0, 0.6); padding: 10px; font-size: 15px; }
+.templatemo_caption p { color: #ffffff; background: rgba(0, 0, 0, 0.7); padding: 10px; font-size: 15px; }
 
 .templatemo_caption	{
 	margin-left: 20%;
